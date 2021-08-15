@@ -162,8 +162,7 @@ VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transacti
     issn = {0925-2312},
     doi = {https://doi.org/10.1016/j.neucom.2021.08.030},
     url = {https://www.sciencedirect.com/science/article/pii/S0925231221012145},
-    author = {Wanglong Lu and Hanli Zhao and Qi He and Hui Huang and Xiaogang Jin},
-    keywords = {Vehicle logo recognition, category consistency, convolutional neural network, deep learning}
+    author = {Wanglong Lu and Hanli Zhao and Qi He and Hui Huang and Xiaogang Jin}
   ```
 
 ## Acknowledgements
