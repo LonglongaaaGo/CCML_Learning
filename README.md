@@ -1,6 +1,6 @@
 # The Pytorch Implementation of Category-consistent deep network learning for accurate vehicle logo recognition 
 - This is the offical website for paper ''Category-consistent deep network learning for accurate vehicle logo recognition''. 
-- [Category-consistent deep network learning for accurate vehicle logo recognition](https:)
+- Paper: [Category-consistent deep network learning for accurate vehicle logo recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012145/)
 - Authors: [Wanglong Lu](https://longlongaaago.github.io), [Hanli Zhao](http://i3s.wzu.edu.cn/info/1104/1183.htm)
 , [Qi He](http://i3s.wzu.edu.cn/info/1104/1181.htm), [Hui Huang](http://i3s.wzu.edu.cn/info/1104/1163.htm), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
