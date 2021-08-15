@@ -171,3 +171,4 @@ VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transacti
 - Our codes benefit from the official memory-efficient-based [DenseNet](https://github.com/gpleiss/efficient_densenet_pytorch) by [@gpleiss](https://github.com/gpleiss), [Billion-scale-semi-supervised-learning](https://github.com/leaderj1001/Billion-scale-semi-supervised-learning) by [@leaderj1001](https://github.com/leaderj1001), and
  the implementation of the category-consistent from [PSOL](https://github.com/tzzcl/PSOL) by [@tzzcl](https://github.com/tzzcl).
 Thanks for their beautiful work.
+- Thanks for [@kaijieshi7](https://github.com/kaijieshi7)'s help in building the project.
