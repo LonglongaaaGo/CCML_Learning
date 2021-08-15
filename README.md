@@ -163,6 +163,7 @@ VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transacti
     doi = {https://doi.org/10.1016/j.neucom.2021.08.030},
     url = {https://www.sciencedirect.com/science/article/pii/S0925231221012145},
     author = {Wanglong Lu and Hanli Zhao and Qi He and Hui Huang and Xiaogang Jin}
+    }
   ```
 
 ## Acknowledgements
