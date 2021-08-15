@@ -79,7 +79,7 @@ VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transacti
 ## VLF-net for category-consistent mask learning
 - ### Step 1:
   - Generation of the category-consistent masks. There are more details for the co-localization method [PSOL](https://github.com/tzzcl/PSOL).
-  - Please note that we use the generated binary-masks directly instead of the predicted-boxes.
+  - Please note that we use the generated binary-masks directly instead of the predicted boxes.
 - ### Step 2:
   - After generating the category-consistent masks, we can further organize the training and testing data which are as below:
   ```
