@@ -2,7 +2,7 @@
 - This is the offical website for paper ''Category-consistent deep network learning for accurate vehicle logo recognition''. 
 - [Category-consistent deep network learning for accurate vehicle logo recognition](https:)
 - Authors: [Wanglong Lu](https://longlongaaago.github.io), [Hanli Zhao](http://i3s.wzu.edu.cn/info/1104/1183.htm)
-, Qi He, Hui Huang, [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
+, Qi He, [Hui Huang](http://i3s.wzu.edu.cn/info/1104/1163.htm), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/)
 
 ## Framework Architecture
 ![Image](./Images/framework.png#pic_center)
