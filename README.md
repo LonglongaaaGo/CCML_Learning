@@ -152,7 +152,7 @@ VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transacti
 
 ![Image](./Images/Table4.png#pic_center)
 
-##Bibtex
+## Bibtex
 - If you find our code useful, please cite our paper:
   ```
   @article{LU2021,
