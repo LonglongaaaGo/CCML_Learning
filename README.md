@@ -79,6 +79,17 @@ VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transacti
 - ### Step 1:
   - Generation of the category-consistent masks. There are more details for the co-localization method [PSOL](https://github.com/tzzcl/PSOL).
   - Please note that we use the generated binary-masks directly instead of the predicted boxes.
+  ```
+  1. Download the source codes of [PSOL](https://github.com/tzzcl/PSOL).
+  2. Add the generate_mask_imagenet.py from our project to the PSOL folder. 
+  3. Run the generate_mask_imagenet.py
+  - For the generate_mask_imagenet.py
+    --input_size    input size for each image (448 for default)
+    --gpu           which gpus to use 
+    --output_path   the output pseudo boxes folder
+    --batch_size    batch_size for executing forward pass of CNN
+    --output_mask_path the output pseudo mask folder
+  ```
 - ### Step 2:
   - After generating the category-consistent masks, we can further organize the training and testing data which are as below:
   ```
