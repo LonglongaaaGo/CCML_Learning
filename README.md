@@ -12,22 +12,18 @@
 
 ## Datasets
 - XMU:
-  - Y. Huang, R. Wu, Y. Sun, W. Wang, and X. Ding, Vehicle logo recog775
-nition system based on convolutional neural networks with a pretraining strategy, IEEE Transactions on Intelligent Transportation Systems 16 (4) (2015) 1951-1960.
+  - Y. Huang, R. Wu, Y. Sun, W. Wang, and X. Ding, Vehicle logo recognition system based on convolutional neural networks with a pretraining strategy, IEEE Transactions on Intelligent Transportation Systems 16 (4) (2015) 1951-1960.
   - https://xmu-smartdsp.github.io/VehicleLogoRecognition.html
 - HFUT-VL1 and HFUT-VL2:
   - Y. Yu, J. Wang, J. Lu, Y. Xie, and Z. Nie, Vehicle logo recognition based on overlapping enhanced patterns of oriented edge magnitudes, Computers & Electrical Engineering 71 (2018) 273–283.
   - https://github.com/HFUT-VL/HFUT-VL-dataset
 - CompCars:
-  - L. Yang, P. Luo, C. C. Loy, and X. Tang, A large-scale car dataset for
-fine-grained categorization and verification, in: Proc. IEEE Conference on
+  - L. Yang, P. Luo, C. C. Loy, and X. Tang, A large-scale car dataset for fine-grained categorization and verification, in: Proc. IEEE Conference on
 Computer Vision and Pattern Recognition (CVPR), Boston, MA, 2015, pp.
 3973-3981.
   - http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html
 - VLD-45:
-  - S. Yang, C. Bo, J. Zhang, P. Gao, Y. Li and S. Serikawa,
-VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transactions on Intelligent Transportation Systems (2021) doi:
-10.1109/TITS.2021.3062113. 
+  - S. Yang, C. Bo, J. Zhang, P. Gao, Y. Li and S. Serikawa, VLD-45: A big dataset for vehicle logo recognition and detection, IEEE Transactions on Intelligent Transportation Systems (2021) doi: 10.1109/TITS.2021.3062113. 
   - https://github.com/YangShuoys/VLD-45-B-DATASET-Detection
 
 ## VLF-net for classification (Vehicle logo feature extraction network)
